@@ -1,9 +1,12 @@
 package financeTracker.controller;
 
+import financeTracker.views.View;
+
 public class Controller {
+    private View view = new View();
 
     public void run(){
-        System.out.println("Welcome to Finance Tracker!");
-    }
-    
+        view.clearScreen();
+        view.start();
+    }    
 }
