@@ -1,4 +1,4 @@
-package financeTracker.views;
+package financetracker.views;
 
 public class View {
 

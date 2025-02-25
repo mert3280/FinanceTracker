@@ -1,6 +1,6 @@
-package financeTracker;
+package financetracker;
 
-import financeTracker.controller.Controller;
+import financetracker.controller.Controller;
 
 public class Main {
     public static void main(String[] args) {

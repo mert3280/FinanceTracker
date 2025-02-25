@@ -1,6 +1,6 @@
-package financeTracker.controller;
+package financetracker.controller;
 
-import financeTracker.views.View;
+import financetracker.views.View;
 
 public class Controller {
     private View view = new View();

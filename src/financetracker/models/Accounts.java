@@ -1,4 +1,4 @@
-package financeTracker.models;
+package financetracker.models;
 
 public class Accounts {
 
