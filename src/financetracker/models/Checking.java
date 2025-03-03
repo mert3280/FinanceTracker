@@ -21,7 +21,4 @@ public class Checking extends Accounts {
             return super.toString();
         }
     }
-
-    
-    
 }
